@@ -1,0 +1,9 @@
+(module Pogo_1x1 (layer F.Cu) (tedit 5ADC2352)
+  (fp_text reference J121 (at -0.78 1.33) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MECHANICAL_SUPPORT (at -0.32 -4) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.45) (layers *.Cu *.Mask))
+)

@@ -1,0 +1,9 @@
+(module Home_4mm_NPTH (layer F.Cu) (tedit 59C45446)
+  (fp_text reference H202 (at 0 3) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Hole_4mm_NPTH (at -0.32 -4) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 4.25 4.25) (drill 4) (layers *.Cu *.Mask))
+)

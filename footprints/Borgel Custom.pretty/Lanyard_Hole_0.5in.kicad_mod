@@ -1,0 +1,9 @@
+(module Lanyard_Hole_0.5in (layer F.Cu) (tedit 589C10AF)
+  (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Lanyard_Hole_0.5in (at 0 -2) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at -1 0) (size 12.7 12.7) (drill 12.7) (layers *.Cu *.Mask F.SilkS))
+)

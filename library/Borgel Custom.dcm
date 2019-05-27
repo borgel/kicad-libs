@@ -1,0 +1,377 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24LC00
+D I2C Serial EEPROM, 128 Bits, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21178G.pdf
+$ENDCMP
+#
+$CMP 24LC01
+D I2C Serial EEPROM, 1Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21711J.pdf
+$ENDCMP
+#
+$CMP 24LC02
+D I2C Serial EEPROM, 2Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21709c.pdf
+$ENDCMP
+#
+$CMP 24LC04
+D I2C Serial EEPROM, 4Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21708K.pdf
+$ENDCMP
+#
+$CMP 24LC08
+D I2C Serial EEPROM, 8Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21710J.pdf
+$ENDCMP
+#
+$CMP 24LC1025
+D I2C Serial EEPROM, 1024Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf
+$ENDCMP
+#
+$CMP 24LC128
+D I2C Serial EEPROM, 128Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21191s.pdf
+$ENDCMP
+#
+$CMP 24LC16-SOT-23-5
+D I2C Serial EEPROM, 16Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21703d.pdf
+$ENDCMP
+#
+$CMP 24LC256
+D I2C Serial EEPROM, 256Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf
+$ENDCMP
+#
+$CMP 24LC32
+D I2C Serial EEPROM, 32Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21072G.pdf
+$ENDCMP
+#
+$CMP 24LC512
+D I2C Serial EEPROM, 512Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21754M.pdf
+$ENDCMP
+#
+$CMP 24LC64
+D I2C Serial EEPROM, 64Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21189f.pdf
+$ENDCMP
+#
+$CMP 2N7002
+D 0.115A Id, 60V Vds, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP 2x2-Shitty
+D Badgelife connector footprint
+$ENDCMP
+#
+$CMP 4.5v
+K POWER, PWR
+$ENDCMP
+#
+$CMP AAT1217-3.3
+D Phototransistor NPN
+K npn phototransistor
+F https://www.rcscomponents.kiev.ua/datasheets/bpw40.pdf
+$ENDCMP
+#
+$CMP AP22802AW5-7
+D SOT-23-5 Load Switch
+K Load Switch
+$ENDCMP
+#
+$CMP APA102_2020
+D APA102 2020 White/RGB SPI controllable LED
+K LED RGB SPI
+$ENDCMP
+#
+$CMP APA102_5050
+D APA102 5050 RGB SPI controllable LED
+K LED RGB SPI
+$ENDCMP
+#
+$CMP BC2AAAPC-ND
+D Dual AAA Battery Holder (Series) (1 piece)
+K Battery "Battery Holder" AAA
+$ENDCMP
+#
+$CMP BCAAAPC
+D AAA Battery Holder (1 piece)
+K Battery "Battery Holder" AAA
+$ENDCMP
+#
+$CMP BCAAAPC_+_BCAAPC
+D Comnbined AA or AAA Battery Holder
+K Battery "Battery Holder" AAA AA
+$ENDCMP
+#
+$CMP BCAAPC
+D AAA Battery Holder (1 piece)
+K Battery "Battery Holder" AAA
+$ENDCMP
+#
+$CMP BMD-350
+D Rigado BMD-350 nRF25 module
+K nRF52 BLE Bluetooth Module
+$ENDCMP
+#
+$CMP BP103B
+D NPN phototransistor
+K NPN phototransistor
+F http://www.b-kainka.de/Daten/Sensor/bp103bf.pdf
+$ENDCMP
+#
+$CMP BP103BF
+D NPN phototransistor with daylight filter
+K IR NPN phototransistor
+F http://www.b-kainka.de/Daten/Sensor/bp103bf.pdf
+$ENDCMP
+#
+$CMP BQ24075
+D 1.5A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC
+$ENDCMP
+#
+$CMP BQ24650
+D Synchronous Switch-Mode Battery Charge Controller for Solar Power With Maximum Power Point Tracking
+$ENDCMP
+#
+$CMP C&K-PTS645SM43SMTR92-LFS
+D Push button tact switch, symbol, four pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP CAT24C256
+D 256 kb CMOS Serial EEPROM, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C EEPROM Serial 256kb
+F https://www.onsemi.cn/PowerSolutions/document/CAT24C256-D.PDF
+$ENDCMP
+#
+$CMP CPV_Hole
+D Mounting hole used by CPV in 2016
+K hole strap mounting
+$ENDCMP
+#
+$CMP CY8C4013SXI-400
+D 8 Pin 32 bit Cortex-M0 PSOC4
+K ARM SOC PSOC
+$ENDCMP
+#
+$CMP Conn_02x05_Top_Bottom
+D 10 Pin Tag Connect connector TC2050
+K TagConnect connector
+F ~
+$ENDCMP
+#
+$CMP DMP2240UDM-7
+D MOSFET 2P-CH 20V 2A SOT-26
+K Dual P-Channel MOSFET
+$ENDCMP
+#
+$CMP DMP3099L-7
+D Transistor P-MOSFET with substrate diode (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP ESP8266-01
+D ESP8266-01 WiFi Module
+$ENDCMP
+#
+$CMP ESP8266-01_0
+D ESP8266-01 WiFi Module
+$ENDCMP
+#
+$CMP FAN53600AUC33X
+D IC REG BUCK 3.3V 0.6A SYNC 6WLCSP
+K Regulator
+$ENDCMP
+#
+$CMP HT16K33
+D 16x8 LED controller with keyscan
+$ENDCMP
+#
+$CMP Hole_4mm
+K hole strap mounting
+$ENDCMP
+#
+$CMP Hole_5mm
+D Top Firing 940nm IR LED 1206
+K LED
+$ENDCMP
+#
+$CMP IRF7324
+D -20V Vds, 9A Id, Dual HEXFET P-Channel MOSFET, SO-8
+K Dual HEXFET P-Channel MOSFET
+F http://www.infineon.com/dgdl/irf7324pbf.pdf?fileId=5546d462533600a4015355f5f0861b4b
+$ENDCMP
+#
+$CMP IS31FL3236
+D 36 Channel LED i2c controller
+K "LED Controller" LED i2c
+$ENDCMP
+#
+$CMP IS31FL3731
+D 64 LED i2c controlled matrix driver
+K LED controller driver matrix
+$ENDCMP
+#
+$CMP Keystone_2462
+D Dual AA Battery Holder (Series)
+K HOLDER BATTERY 2CELL AA PTH
+$ENDCMP
+#
+$CMP LTST-C19HE1WT
+D Common Anode SMT RGB LED
+K "Common Anode" LED RGB
+$ENDCMP
+#
+$CMP M24128-BRMN6TP
+D EEPROM 128KBIT I2C 400KHZ
+K EEPROM
+$ENDCMP
+#
+$CMP MCP73831
+D Single cell LiPo/LiIon battery charger
+K battery charger, lipo, liion
+$ENDCMP
+#
+$CMP MMA8452QR1
+D I2C Accelermeter by NXP. 16QFN
+$ENDCMP
+#
+$CMP MMBF170
+D 60V Vds, 0.5 A Id, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/ds30104.pdf
+$ENDCMP
+#
+$CMP OSD335x-SM
+D System in Package with TI AM335x Cortex A8, DDR3 memory, TPS65217C PMIC, TL5209 LDO, all the needed passives, and 4KB of EEPROM
+K Cortex A8, BGA, SIP
+F https://octavosystems.com/octavo_products/osd335x-sm/
+$ENDCMP
+#
+$CMP PAM2305
+D 3v3 Fixed Output Buck regulator
+K step down, buck, regulator
+$ENDCMP
+#
+$CMP PAM2305AAB330
+D 3v3 Fixed Output Buck regulator
+K step down, buck, regulator
+$ENDCMP
+#
+$CMP Pin_Header_1x2
+D 1x2 0.1" Header
+K Header
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch_RGB
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP SFH300
+D LIGHT SENSOR AMBIENT SMD
+K phototransistor
+F http://www.everlight.com/file/ProductFile/201407061531031645.pdf
+$ENDCMP
+#
+$CMP STLink-Mini-v2
+D Connector, double row, 02x05, pin header
+K connector
+$ENDCMP
+#
+$CMP STM32F030K6T6
+D 32 pin 32 bit ARMCortex M0 in LQFP
+K ARM SOC LQFP
+$ENDCMP
+#
+$CMP STM32F051K8T6
+D 32 pin 32 bit ARMCortex M0 in LQFP
+K ARM SOC LQFP
+$ENDCMP
+#
+$CMP STM32F051K8U6
+D 32 pin 32 bit ARM Cortex M0 in UFQFPN32
+K ARM STM32
+$ENDCMP
+#
+$CMP STP16CPC26
+D 16 channel SPI LED controller (SPI)
+K LED Controller
+$ENDCMP
+#
+$CMP SW-520D
+D Tilt Sensor
+K Sensor Tilt
+$ENDCMP
+#
+$CMP SW_PUSH
+D SMT SPST Button from Aliexpress
+K Switch SMT SPST Button
+$ENDCMP
+#
+$CMP SW_PUSH_AX
+D SMT SPST Button from Aliexpress
+K Switch SMT SPST Button
+$ENDCMP
+#
+$CMP SW_Push_Dual
+D Push button tact switch, symbol, four pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP Si7288DP
+D 40V Vds, 10A, N-channel MOSFET, PowerPAK SO-8
+K N-Channel MOSFET
+F http://www.vishay.com/docs/65366/si7288dp.pdf
+$ENDCMP
+#
+$CMP TCA8418
+D 10 x 8 i2c keypad scan IC
+K keypad, io expander
+$ENDCMP
+#
+$CMP TSOP75338WTT
+D SMT IR Receiver Modules for Remote Control Systems
+K IR Receiver
+$ENDCMP
+#
+$CMP TSSP58P38
+D PTH IR Receiver 38.0kHz 2.5-5.5v
+K IR Receiver
+$ENDCMP
+#
+$CMP VBAT_RAW
+K POWER, PWR
+$ENDCMP
+#
+$CMP WP154A4SUREQBFZGC
+D PTH RGB LED
+K RGB LED
+$ENDCMP
+#
+$CMP YYSD10R
+D Monocolor (Red) 10 segment LED Bar
+K LED Bar Red
+$ENDCMP
+#
+#End Doc Library
